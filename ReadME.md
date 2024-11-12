@@ -6,8 +6,6 @@ Welcome to the FastAPI + Docker + Alembic + Poetry boilerplate project! This rep
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites  
 
